@@ -3,9 +3,7 @@
 🎓 **Industrial Engineering & Management** @ Aalto University
 
 🏆 **Achievements**
-- 1st Place - STUHI Hackathon (FR8 Challenge)
-- 1st Place - STUHI Hackathon (ElevenLabs Challenge)
-- 2nd Place - STUHI Hackathon (Supercell Challenge)
+3 x Hackathon Winner
 
 ## 💻 What I Build
 
