@@ -2,7 +2,7 @@
 
 🎓 Industrial Engineering & Management @ Aalto University
 
-🏆 5 x Hackathon Winner
+🏆 6 x Hackathon Winner
 
 
 ## 📫 Get in Touch
